@@ -1,0 +1,1 @@
+Criação de gráficos a partir da biblioteca Google Charts, utilizando também arquivos .Json.
